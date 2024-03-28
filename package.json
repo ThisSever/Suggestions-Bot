@@ -1,0 +1,21 @@
+{
+  "name": "suggestions-bot",
+  "version": "1.0.0",
+  "description": "Test task for Gerstlix",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "author": "ThisSever",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.9.2"
+  }
+}
